@@ -1,2 +1,4 @@
 *.cli
 *.png
+*.tar
+__pycache__
