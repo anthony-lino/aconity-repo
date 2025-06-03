@@ -1,0 +1,6 @@
+[submodule "libSLM"]
+	path = libSLM
+	url = git@github.com:anthony-lino/libSLM.git
+[submodule "pyslm"]
+	path = pyslm
+	url = git@github.com:anthony-lino/pyslm.git
