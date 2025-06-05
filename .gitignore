@@ -2,3 +2,4 @@
 *.png
 *.tar
 __pycache__
+wheels
